@@ -1,0 +1,27 @@
+.edit-form {
+    width: 450px;
+    min-height: 100px;
+    border: 0.5px solid #F9F5EB;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px 0 rgba(51, 62, 73, 0.1);
+    background: #fff;
+    margin: 50px auto;
+    text-align: center;
+}
+
+#heading-edit {
+    color: #EA5455;
+    font-size: 3rem;
+}
+
+.form-label {
+    font-weight: 40px;
+    padding-bottom: 6px;
+    line-height: 1.8rem;
+    font-size: 1.4rem;
+    color: #3E54AC;
+}
+
+#description {
+    resize: none;
+}

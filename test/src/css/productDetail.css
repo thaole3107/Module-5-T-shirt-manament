@@ -1,0 +1,28 @@
+#heading-detail {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+
+#product-detail {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 700px;
+}
+
+
+.label-style {
+    padding-right: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+    width: 200px;
+}
+
+.detail {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+#notification {
+    font-size: 20px;
+}
